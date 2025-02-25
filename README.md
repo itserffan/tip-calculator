@@ -34,8 +34,7 @@ Add a screenshot of your solution here. The easiest way to do this is to use you
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://tip-calculator159.netlify.app/)
 
 ## My Process
 
@@ -47,6 +46,7 @@ Add a screenshot of your solution here. The easiest way to do this is to use you
 - CSS Grid
 - Mobile-first workflow
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - Programming language
+- React Js
 
 ### What I Learned
 
@@ -76,8 +76,8 @@ Moving forward, I plan to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/itserffan)
-- Twitter - [@yourusername](https://www.twitter.com/itserffan)
+- Frontend Mentor - [@itserffan](https://www.frontendmentor.io/profile/itserffan)
+- Twitter - [@itserffan](https://www.twitter.com/itserffan)
 
 ## Acknowledgments
 
