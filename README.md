@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot](./screenshot.jpg)
+![Screenshot](./design/desktop-preview.jpg)
 
 Add a screenshot of your solution here. The easiest way to do this is to use your browser's built-in screenshot tool or an extension like [FireShot](https://getfireshot.com/). Crop and optimize the image as needed.
 
